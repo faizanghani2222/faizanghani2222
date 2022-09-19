@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Ghani</h1>
 <h3 align="center">An aspiring Full Stack Web Developer with core knowledge of MERN stack technology</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development from Masai School**
 
 - 👨‍💻 All of my projects are available at [https://faizanghani2222.github.io/](https://faizanghani2222.github.io/)
 
