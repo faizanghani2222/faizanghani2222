@@ -45,12 +45,6 @@
 [![](https://visitcount.itsvg.in/api?id=faizanghani2222&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ks-1007&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks-1007&theme=default" />
-</a>
 
 
 
