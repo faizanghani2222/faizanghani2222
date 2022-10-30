@@ -14,7 +14,7 @@
 
 - 🌱 I’m actively looking for oppoturnities.
 
-- 🌍 I'm based in Kolkata,West Bengal
+- 🌍 I'm based in Kolkata, West Bengal
 
 - 💼 Visit my [Portfolio](https://faizanghani2222.github.io/) for more details.
 
