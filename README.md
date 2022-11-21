@@ -18,7 +18,7 @@
 
 - 💼 Visit my [Portfolio](https://faizanghani2222.github.io/) for more details.
 
-- ✉️  You can contact me at [faizanghani2222@gmail.com](mailto:faizanghani22220@gmail.com)
+- ✉️ Contact me at [faizanghani2222@gmail.com](mailto:faizanghani22220@gmail.com)
 
 #### ⚡ One line that describes me best? 
 A hard working and dedicated person who loves to code.
